@@ -19,7 +19,9 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
 ## Education
 
 #### Makers Academy (March to July 2018)
- - Fulfilling my insatiable appetite for code
+ - 12 week programming bootcamp
+ - Learning industry best practices such as TDD, pair programming and agile planning
+ - Programming languages covered include Ruby and Javascript
 
 #### University Of Nottingham (September 2009 - July 2012)
  - Awarded a 2:1 in Politics
@@ -45,5 +47,6 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
  - Exploring - Have lived and worked in Peru, Colombia and India. 
  - Photography
  - Rugby, keeping active and boxing
- - Books, favorites include LOTR and the Hitchhikers Guide To The Galaxy 
+ - Books, favorites include LOTR and the Hitchhikers Guide To The Galaxy
+ - Computer Science, (almost) completed the Algorithmic Toolbox UCLA Module on Coursera in C
  
