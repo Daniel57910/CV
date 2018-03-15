@@ -7,9 +7,9 @@ I'm currently completing the Makers Academy course. Currently I'm focusing on ru
 
 ## Skills
 
-#- Strong Communicator - Managed a cross functional team whilst working as a division head at the Innovation Enterprise. Prior to Makers Academy, I worked remotely as a business development and marketing contractor for a range of international clients. 
-#- Entrepreneurial - Began working as a freelancer whilst teaching English in Colombia. Obtained enough business to justify setting up a registered company and hired a full time employee to assist with project execution. 
-#- Innovative - Developed interview and webinar program to drive engagement with client projects. I also led the segmentation of a database containing 12,000 leads for a client. 
+# Strong Communicator - Managed a cross functional team whilst working as a division head at the Innovation Enterprise. Prior to Makers Academy, I worked remotely as a business development and marketing contractor for a range of international clients. 
+# Entrepreneurial - Began working as a freelancer whilst teaching English in Colombia. Obtained enough business to justify setting up a registered company and hired a full time employee to assist with project execution. 
+# Innovative - Developed interview and webinar program to drive engagement with client projects. I also led the segmentation of a database containing 12,000 leads for a client. 
 
 ## Education
 
@@ -19,8 +19,6 @@ I'm currently completing the Makers Academy course. Currently I'm focusing on ru
 #### University Of Nottingham (September 2009 - July 2012)
  - Awarded a 2:1 in Politics
  - Played rugby for the University of Nottingham
-
-
 
 ## Experience
 
