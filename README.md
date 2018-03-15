@@ -12,7 +12,9 @@ Managed a cross functional team whilst working as a division head at the Innovat
 #### Entrepreneurial 
 Began working as a freelancer whilst teaching English in Colombia. Obtained enough business to justify setting up a registered company and hired a full time employee to assist with project execution. 
 #### Innovative 
-Developed interview and webinar program to drive engagement with client projects. I also led the segmentation of a database containing 12,000 leads for a client. 
+Developed interview and webinar program to drive engagement with client projects. I also led the segmentation of a database containing 12,000 leads for a client.
+#### Delivery
+Executed multiple conferences with over 200 attendees and 20 sponsors. The planning and organization that went into these events will enable me to deliver software projects within the expected timeframe. 
 
 ## Education
 
