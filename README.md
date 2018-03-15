@@ -43,7 +43,7 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
  - P&L responsibility for $2.5 million+ Finance, CFO & Operations Channel conferences
  - Leadership skills demonstrated by strong performance of team. In 2015 Q1 team exceeded revenue target by over $350,000
  
-## INTERESTS
+## Interests
  - Exploring - Have lived and worked in Peru, Colombia and India. 
  - Photography
  - Rugby, keeping active and boxing
