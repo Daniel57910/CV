@@ -27,7 +27,7 @@ Developed interview and webinar program to drive engagement with client projects
 
 **Daniel Miller Inc. Limited** (April 2015 - September 2016)
 *CEO*
- - High level of professionalism reflected by 100% Upwork client satisfaction score: https://www.upwork.com/o/profiles/users/_~016a9409b2f7453c8e/
+ - High level of professionalism reflected by 100% Upwork client satisfaction score
  - Developed initial copy & concepts for AI consultancy Matter AI
  - Achieved 47% increase in attendance for 2016 MSL Society Las Vegas Conference
  - Over 110 attendees for first MSL Society Women's Summit
