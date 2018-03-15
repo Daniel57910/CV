@@ -25,7 +25,7 @@ Developed interview and webinar program to drive engagement with client projects
 
 ## Experience
 
-**Daniel Miller Inc. Limited** (April 2015 - September 2016)
+**Daniel Miller Inc. Limited** (April 2016 - October 2017)
 *CEO*
  - High level of professionalism reflected by 100% Upwork client satisfaction score
  - Developed initial copy & concepts for AI consultancy Matter AI
