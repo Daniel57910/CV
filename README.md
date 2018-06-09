@@ -24,7 +24,7 @@ Software development satisfies my desire for mental stimulation and challenge in
 |Project|Summary|Team Size|Tech Stack|Testing & Integration|
 |-------|-------|---------|----------|-------|
 |[MONGO_DB_REFACTOR](https://github.com/Daniel57910/mongo_crud_operations-)|To learn more about databases and applicastions I refactored mongo database source code to separate database connections from crud ops. | 1 | MongoDB, NodeJS | 
-|[CODEWARS KATAS](https://github.com/Daniel57910/ruby-programming)|During the Makers Academy pre course I completed several 4kyu code wars katas in ruby. Comparing these to my final project illustrates how much I've progressed as a programming in just 4 months! | 1 | Ruby |
+|[CODEWARS KATAS](https://github.com/Daniel57910/ruby-programming)|During the Makers Academy pre course I completed several 4kyu code wars katas in ruby. They illustrate how much I've progressed as a programming in just 4 months! | 1 | Ruby |
 
 ## Skills
 
