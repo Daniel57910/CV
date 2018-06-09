@@ -1,6 +1,6 @@
 
 ## Daniel Miller
-#
+
 I am a full stack developer who has just completed the makers academy bootcamp. In teams and independently I have created a variety of applications using object orientated ruby and javascript. I've prioritized writing simple and scalable back_end code, but am also able to create interactive web pages that will delight users. 
 
 Prior to Makers I was running an events marketing and strategy consultancy. I set up the company whilst teaching english in Colombia. My work history shows my strong sense of initiative, ability to learn concepts quickly and my commitment to high quality work. 
@@ -10,13 +10,14 @@ Software development satisfies my desire for mental stimulation and challenge in
 [PROJECTS](#Projects) | [SKILLS](#Skills) | [EXPERIENCE](#Experience) | [EDUCATION](#Education) | [BLOG](https://medium.com/@danielmiller5791) | [INTERESTS](#Interests)
 
 ## PROJECTS
-#
+
+#### MAKERS ACADEMY PROJECTS
 |Project|Summary|Team Size|Tech Stack|Testing|
 |-------|-------|---------|----------|-------|
-|[CRYPTIC MEG](https://github.com/Daniel57910/blockchain_project)|
+|[CRYPTIC MEG](https://github.com/Daniel57910/blockchain_project)|SDODWIODNCW|4|Node|FUCB3IO|
 
 ## Skills
-#
+
 #### Strong Communicator
 Managed a cross functional team of designers, conference producers, marketers and sales executives whilst working as a division head at the Innovation Enterprise. In the first quarter of 2015 the team exceeded their revenue targets.
 #### Entrepreneurial 
@@ -27,7 +28,7 @@ Developed interview and webinar program to drive engagement with client projects
 Executed multiple conferences with over 200 attendees and 20 sponsors. The planning and organization that went into these events will enable me to deliver software projects within the expected timeframe. 
 
 ## Education
-#
+
 #### Makers Academy (March - July 2018)
 * Approaches Covered
   - 12 week programming bootcamp.
@@ -51,7 +52,6 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
  - Played rugby for the University of Nottingham.
 
 ## Experience
-#
 
 **Daniel Miller Inc. Limited** (April 2016 - October 2017)
 *CEO*
@@ -68,7 +68,7 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
  - Leadership skills demonstrated by strong performance of team. In 2015 Q1 team exceeded revenue target by over $350,000.
  
 ## Interests
-#
+
  - Exploring - Have lived and worked in Peru, Colombia and India. 
  - Photography.
  - Boxing, rock climbing and keeping active.
