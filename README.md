@@ -40,10 +40,9 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
 
 #### Makers Academy (March - July 2018)
 * Approaches Covered
-  - 12 week programming bootcamp.
   - OOD, TDD, BDD, SOLID, DRY.
   - Programming individually, in pairs and in teams.
-  - Agile workflow, 2 day sprints and continous feedback.
+  - Agile workflow, 2 day sprints, kanban planning, XP Values and continous feedback.
 
 * Technical Competencies
    - Ruby, Rails, Javascript, Node, Express.
