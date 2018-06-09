@@ -12,13 +12,22 @@ Software development satisfies my desire for mental stimulation and challenge in
 ## PROJECTS
 
 #### MAKERS ACADEMY PROJECTS
-|Project|Summary|Team Size|Tech Stack|Testing|
+|Project|Summary|Team Size|Tech Stack|Testing & Integration|
 |-------|-------|---------|----------|-------|
-|[CRYPTIC MEG](https://github.com/Daniel57910/blockchain_project)|SDODWIODNCW|4|Node|FUCB3IO|
+|[CRYPTIC MEG](https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
+[ACEBOOK](https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making get requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI
+[GILDED ROSE](https://github.com/Daniel57910/gilded_rose)|First attempt at the Gilded Rose Tech Test. Whilst it's not perfect I learnt a huge amount about design patterns and minimized repetitive code through the usage of modules. | 1 | Ruby | rSpec, Rubocop
+[THERMOSTAT](https://github.com/Daniel57910/thermostat)|First application wrote and TDD'd in Javascript. To eliminate the need to host API data in the browser, I created a simple API that makes a GET request to a ruby application.|1| Javascript, jQuery, HTML, CSS, Ruby, Sinatra | Jasmine
+[BANK TECH TEST](https://github.com/Daniel57910/bank_test)|Bank Tech Test wrote in Node JS. Covered a variety of user stories to allow users to deposit, withdraw and view transactions. |1| NodeJS|Jasmine
+
+#### SIDE PROJECTS
+|Project|Summary|Team Size|Tech Stack|Testing & Integration|
+|-------|-------|---------|----------|-------|
+|[MONGO_DB_REFACTOR](https://github.com/Daniel57910/mongo_crud_operations-)|Refactored mongo database source code to separate database connections from crud ops. | 1 | MongoDB, NodeJS | 
 
 ## Skills
 
-#### Strong Communicator
+#### Strong Communicator                                                                                                                                                      
 Managed a cross functional team of designers, conference producers, marketers and sales executives whilst working as a division head at the Innovation Enterprise. In the first quarter of 2015 the team exceeded their revenue targets.
 #### Entrepreneurial 
 Began working as a freelancer whilst teaching English in Colombia. Obtained enough business to justify setting up a registered company and hired a full time employee to assist with project execution. 
