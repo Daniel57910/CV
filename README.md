@@ -46,7 +46,7 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
 ## Interests
  - Exploring - Have lived and worked in Peru, Colombia and India. 
  - Photography
- - Rugby, keeping active and boxing
+ - Boxing, rock climbing and keeping active
  - Books, favorites include LOTR and the Hitchhikers Guide To The Galaxy
  - Computer Science, (almost) completed the Algorithmic Toolbox UCLA Module on Coursera in C
  
