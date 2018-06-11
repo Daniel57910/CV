@@ -13,17 +13,17 @@ Software development satisfies my desire for mental stimulation and challenge in
 #### MAKERS ACADEMY PROJECTS
 |Project|Summary|Team Size|Tech Stack|Testing & Integration|
 |-------|-------|---------|----------|-------|
-|[CRYPTIC MEG](https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
-[ACEBOOK](https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI
-[GILDED ROSE](https://github.com/Daniel57910/gilded_rose)|First attempt at the Gilded Rose Tech Test. Whilst it's not perfect I learnt a huge amount about design patterns and minimized repetitive code through the usage of modules. | 1 | Ruby | rSpec, Rubocop
-[THERMOSTAT](https://github.com/Daniel57910/thermostat)|First application wrote and TDD'd in Javascript. To eliminate the need to host API data in the browser, I created a simple API that makes a GET request to a ruby application.|2| Javascript, jQuery, HTML, CSS, Ruby, Sinatra | Jasmine
-[BANK TECH TEST](https://github.com/Daniel57910/bank_test)|Bank Tech Test wrote in Node JS. Covered a variety of user stories to allow users to deposit, withdraw and view transactions. |1| Node |Jasmine
+|[Cryptic Meg](https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
+[Acebook](https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI
+[Gilded Rose](https://github.com/Daniel57910/gilded_rose)|First attempt at the Gilded Rose Tech Test. Whilst it's not perfect I learnt a huge amount about design patterns and minimized repetitive code through the usage of modules. | 1 | Ruby | rSpec, Rubocop
+[Thermostat](https://github.com/Daniel57910/thermostat)|First application wrote and TDD'd in Javascript. To eliminate the need to host API data in the browser, I created a simple API that makes a GET request to a ruby application.|2| Javascript, jQuery, HTML, CSS, Ruby, Sinatra | Jasmine
+[Bank Tech Test](https://github.com/Daniel57910/bank_test)|Bank Tech Test wrote in Node JS. Covered a variety of user stories to allow users to deposit, withdraw and view transactions. |1| Node |Jasmine
 
 #### SIDE PROJECTS
 |Project|Summary|Team Size|Tech Stack|Testing & Integration|
 |-------|-------|---------|----------|-------|
-|[MONGO_DB_REFACTOR](https://github.com/Daniel57910/mongo_crud_operations-)|To learn more about databases and applicastions I refactored mongo database source code to separate database connections from crud ops. | 1 | MongoDB, NodeJS | 
-|[CODEWARS KATAS](https://github.com/Daniel57910/ruby-programming)|During the Makers Academy pre course I completed several 4kyu code wars katas in ruby. They illustrate how much I've progressed as a programming in just 4 months! | 1 | Ruby |
+|[Mongo DB Refactor](https://github.com/Daniel57910/mongo_crud_operations-)|To learn more about databases and applicastions I refactored mongo database source code to separate database connections from crud ops. | 1 | MongoDB, NodeJS | 
+|[Codewars Katas](https://github.com/Daniel57910/ruby-programming)|During the Makers Academy pre course I completed several 4kyu code wars katas in ruby. They illustrate how much I've progressed as a programming in just 4 months! | 1 | Ruby |
 
 ## SKILLS
 
