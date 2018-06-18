@@ -18,6 +18,7 @@ Software development satisfies my desire for mental stimulation and challenge in
 [Gilded Rose](https://github.com/Daniel57910/gilded_rose)|First attempt at the Gilded Rose Tech Test. Whilst it's not perfect I learnt a huge amount about design patterns and minimized repetitive code through the usage of modules. | 1 | Ruby | rSpec, Rubocop
 [Thermostat](https://github.com/Daniel57910/thermostat)|First application wrote and TDD'd in Javascript. To eliminate the need to host API data in the browser, I created a simple API that makes a GET request to a ruby application.|2| Javascript, jQuery, HTML, CSS, Ruby, Sinatra | Jasmine
 [Bank Tech Test](https://github.com/Daniel57910/bank_test)|Bank Tech Test wrote in Node JS. Covered a variety of user stories to allow users to deposit, withdraw and view transactions. |1| Node |Jasmine
+[Bowling Challenge](https://github.com/Daniel57910/bowling_3)|Back end logic for a bowling score calculator. Illustrates ability to break down complex business logic into a console/command line application. |1| Javascript |Jasmine
 
 #### SIDE PROJECTS
 |Project|Summary|Team Size|Tech Stack|Testing & Integration|
