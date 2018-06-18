@@ -1,6 +1,6 @@
 ## DANIEL MILLER
 
-I am a full stack developer who has just completed the makers academy bootcamp. In teams and independently I have created a variety of applications using object orientated ruby and javascript. I've prioritized writing simple and scalable back-end code, but am also able to create interactive web pages that will delight users. 
+I am a full stack developer who has just completed the makers academy bootcamp. In teams and independently I have created a variety of applications using object orientated ruby and javascript. I've prioritized writing simple and scalable back-end code, and have am looking for a role that will further my understanding of back-end engineering, devops and databases. 
 
 Prior to Makers I was running an events marketing and strategy consultancy. I set up the company whilst teaching english in Colombia. My work history shows my strong sense of initiative, ability to learn concepts quickly and my commitment to high quality work. 
 
