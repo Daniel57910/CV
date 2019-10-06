@@ -12,11 +12,11 @@ As part of this role I regularly provide in-office and out of hours support as t
 |Project|Summary|Team Size|Tech Stack|Testing & Integration|
 |-------|-------|---------|----------|-------|
 
-|[Capstone Project](https://github.com/Daniel57910/capstone_project)|Udacity Data Engineering Final Project | Manipulate hetrogenous 7gb to understand US immigration patterns.  |4|Python, Spark, Airflow, AWS EMR & S3|
-|[Udacity Airflow Challenge](https://github.com/Daniel57910/udac_airflow)|Udacity Data Engineering Final Project | ETL to fetch data from s3 and load into a redshift DB  |4|Python, Pandas, AWS S3, Redshift|
-|[Cryptic Meg](https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
-[Acebook](https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI
-[Bowling Challenge](https://github.com/Daniel57910/bowling_3)|Back end logic for a bowling score calculator. Illustrates ability to break down complex business logic into a console/command line application. |1| Javascript |Jasmine
+|[Capstone Project]|(https://github.com/Daniel57910/capstone_project)|Udacity Data Engineering Final Project | Manipulate hetrogenous 7gb to understand US immigration patterns.|4|Python, Spark, Airflow, AWS EMR & S3|
+|[Udacity Airflow Challenge]|(https://github.com/Daniel57910/udac_airflow)|Udacity Data Engineering Final Project | ETL to fetch data from s3 and load into a redshift DB  |4|Python, Pandas, AWS S3, Redshift|
+|[Cryptic Meg]|(https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
+[Acebook]|(https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI
+[Bowling Challenge]|(https://github.com/Daniel57910/bowling_3)|Back end logic for a bowling score calculator. Illustrates ability to break down complex business logic into a console/command line application. |1| Javascript |Jasmine
 
 ## SKILLS
 
