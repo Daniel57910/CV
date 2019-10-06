@@ -1,6 +1,6 @@
 ## DANIEL MILLER
 
-Software Engineer at SG Digital. Began in the US Entry team and transitioned to the DevOps team where my main responsibility has been developing python applications to automate and improve the software release process. 
+Software Engineer at SG Digital. Began in the US Entry team and transitioned to the DevOps team where my main responsibility has been developing python applications to automate and improve the release process. 
 
 As part of this role I regularly provide in-office and out of hours support as the on-call DevOps team member, and have also enjoyed the additional responsibilities as a code reviewer. 
 
@@ -18,27 +18,29 @@ In addition I've recently completed the Udacity Data Engineering Nanodegree. Thr
 |[Cryptic Meg](https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
 [Acebook](https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI|
 
-
-
 ## SKILLS
 
-#### Strong Communicator                                                                                                                                                      
-Managed a cross functional team of designers, conference producers, marketers and sales executives whilst working as a division head at the Innovation Enterprise. In the first quarter of 2015 the team exceeded their revenue targets.
+#### Strong Communicator
+Communicated directly with Caesar's engineers to deploy software I developed in SG Digital Retail team to allocate loyalty points to customers. In DevOps team work with software developers and DBAs as the on call member to troubleshoot and solve issues. 
 #### Entrepreneurial 
 Began working as a freelancer whilst teaching English in Colombia. Obtained enough business to justify setting up a registered company and hired a full time employee to assist with project execution. 
-#### Innovative 
-Developed interview and webinar program to drive engagement with client projects. I also led the segmentation of a database containing 12,000 leads for a client.
 #### Delivery
-Executed multiple conferences with over 200 attendees and 20 sponsors. The planning and organization that went into these events will enable me to deliver software projects within the expected timeframe. 
+Experience with delivering software I've developed from dev to production, and endeavour to write well tested, documented code that can be deployed consistently using automation tools like jenkins.
+
 
 ## EXPERIENCE
+**SG Digital** (Sep 2018 - Present)
+*Software/DevOps Engineer*
+ - Developed software to allocate loyalty points to Caesar's customers in US sports betting markets
+ - Upgraded deployment tooling so deployments can be completed from environment data centre to reduce latency and increase performance
+ - On call software engineer in DevOps team & code reviewer
+ - Production experience with python, sql, ansible, jenkins, AWS, terraform, TCL & docker
 
 **Daniel Miller Inc. Limited** (April 2016 - October 2017)
 *CEO*
  - High level of professionalism reflected by 100% Upwork client satisfaction score.
  - Developed initial copy & concepts for AI consultancy Matter AI.
- - Achieved 47% increase in attendance for 2016 MSL Society Las Vegas Conference.
- - Over 110 attendees for first MSL Society Women's Summit.
+ - Hired and trained employee to satisfy demand for services.
  - Over $150,000 in sponsorship sold for MSL Society Conferences.
  - Over $70,000 sold in delegate revenue sold for MSL Society Conferences.
 
@@ -48,6 +50,11 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
  - Leadership skills demonstrated by strong performance of team. In 2015 Q1 team exceeded revenue target by over $350,000.
 
 ## EDUCATION
+
+#### Data Engineering Nano Degree | Udacity (March - July 2018)
+* Developed ETL pipelines following SQL & noSQL design patterns
+* Technical Competencies
+    - pandas, spark, psql, apache-cassandra, apache-airflow, redshift, AWS EMR
 
 #### Makers Academy (March - July 2018)
 * Approaches Covered
@@ -74,6 +81,6 @@ Executed multiple conferences with over 200 attendees and 20 sponsors. The plann
 
  - Exploring - Have lived and worked in Peru, Colombia and India. 
  - Photography.
- - Boxing, rock climbing and keeping active.
+ - Boxing, rock climbing, cycling, running and keeping active.
  - Books, favorites include LOTR and the Hitchhikers Guide To The Galaxy.
- - Computer Science, (almost) completed the Algorithmic Toolbox UCLA Module on Coursera in C and participated in a MongoDB hackathon with other makers students.
+ - Mental Health and Productivity 
