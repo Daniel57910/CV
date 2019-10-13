@@ -1,6 +1,6 @@
 ## DANIEL MILLER
 
-Software Engineer at SG Digital. Began in the US Entry team and transitioned to the DevOps team where my main responsibility has been developing python applications to automate and improve the release process. 
+Software Engineer at SG Digital. Began in the US Entry team and transitioned to the DevOps team where my main responsibility has been developing Python applications to automate and improve the release process. 
 
 As part of this role I regularly provide in-office and out of hours support as the on-call DevOps team member, and have also enjoyed the additional responsibilities as a code reviewer. 
 
@@ -13,7 +13,7 @@ In addition I've recently completed the Udacity Data Engineering Nanodegree. Thr
 #### SIDE PROJECTS
 |Project|Summary|Team Size|Tech Stack|
 |-------|-------|---------|----------|
-|[Capstone Project](https://github.com/Daniel57910/capstone_project) | Udacity Data Engineering Final Project Manipulate hetrogenous 7gb to understand US immigration patterns.| 1 |Python, Spark, Airflow, AWS EMR & S3 |
+|[Capstone Project](https://github.com/Daniel57910/capstone_project) | Udacity Data Engineering Final Project Manipulate hetrogenous 7gb dataset to understand US immigration patterns.| 1 |Python, Spark, Airflow, AWS EMR & S3 |
 |[Udacity Airflow Challenge](https://github.com/Daniel57910/udac_airflow)|ETL to fetch data from s3 and load into a redshift DB  |1| Python, Pandas, AWS S3, Redshift|
 |[Cryptic Meg](https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
 [Acebook](https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI|
