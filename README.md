@@ -8,15 +8,14 @@ In addition I've recently completed the Udacity Data Engineering Nanodegree. Thr
 
 [PROJECTS](#PROJECTS) | [SKILLS](#SKILLS) | [EXPERIENCE](#EXPERIENCE) | [EDUCATION](#EDUCATION) | [BLOG](https://medium.com/@danielmiller5791) | [INTERESTS](#INTERESTS)
 
-## SIDE PROJECTS
-
-#### SIDE PROJECTS
+####  PROJECTS
 |Project|Summary|Team Size|Tech Stack|
 |-------|-------|---------|----------|
 |[Capstone Project](https://github.com/Daniel57910/capstone_project) | Udacity Data Engineering Final Project that combines hetrogenous 7gb dataset to understand US immigration patterns.| 1 |Python, Airflow, Spark, Airflow, AWS EMR & S3 |
 |[Udacity Airflow Challenge](https://github.com/Daniel57910/udac_airflow)|ETL to fetch data from s3 and load into a redshift DB  |1| Python, Pandas, AWS S3, Redshift|
-|[Cryptic Meg](https://github.com/Daniel57910/blockchain_project)|Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
-[Acebook](https://github.com/SamNiechcial/acebook-jspesh)|Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI|
+|[Udacity Cassandra Challenge](https://github.com/Daniel57910/cass_sparkify)|ETL to fetch data from local directories and load into a cassandra database  |1| Python, Pandas, Jupyter Notebooks, Cassandra|
+|[Cryptic Meg](https://github.com/Daniel57910/blockchain_project)|Makers Academy Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
+[Acebook](https://github.com/SamNiechcial/acebook-jspesh)|Makers Academy Project. Created a facebook clone to learn ruby on rails.  Overcame challenge of slow feature tests by making GET requests in controller tests and testing content of GET requests via regex.|4|Ruby, Rails, Postgres, HTML/CSS, Heroku | rSpec, Capybara, Rubocop, Code Climate, Travis CI|
 
 ## SKILLS
 
@@ -34,10 +33,10 @@ Experience with delivering software I've developed from dev to production, and e
  - Developed software to allocate loyalty points to Caesar's customers in US sports betting markets
  - Upgraded deployment tooling so deployments can be completed from environment data centre to reduce latency and increase performance
  - On call software engineer in DevOps team & code reviewer
- - Production experience with python, sql, ansible, jenkins, AWS, terraform, TCL & docker
+ - Production experience with Python, SQL, Ansible, Jenkins, AWS, Terraform, TCL & Docker
 
 **Daniel Miller Inc. Limited** (April 2016 - October 2017)
-*CEO*
+*Contractor*
  - High level of professionalism reflected by 100% Upwork client satisfaction score.
  - Developed initial copy & concepts for AI consultancy Matter AI.
  - Hired and trained employee to satisfy demand for services.
@@ -47,7 +46,7 @@ Experience with delivering software I've developed from dev to production, and e
 **Innovation Enterprise** (April 2013 - July 2015)
 *Finance, Operations & CFO Channel Head*
  - P&L responsibility for $2.5 million+ Finance, CFO & Operations Channel conferences.
- - Leadership skills demonstrated by strong performance of team. In 2015 Q1 team exceeded revenue target by over $350,000.
+ - Leadership skills demonstrated by strong performance of team. In 2015 Q1 team exceeded revenue target by over $225,000.
 
 ## EDUCATION
 
