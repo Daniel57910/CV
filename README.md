@@ -11,7 +11,7 @@ In addition I've recently completed the Udacity Data Engineering Nanodegree. Thr
 ####  PROJECTS
 |Project|Summary|Team Size|Tech Stack|
 |-------|-------|---------|----------|
-|[Capstone Project](https://github.com/Daniel57910/capstone_project) | Udacity Data Engineering Final Project that combines hetrogenous 7gb dataset to understand US immigration patterns.| 1 |Python, Airflow, Spark, Airflow, AWS EMR & S3 |
+|[Capstone Project](https://github.com/Daniel57910/capstone_project) | Udacity Data Engineering Final Project that combines hetrogenous 7gb dataset to understand US immigration patterns.| 1 |Python, Spark, Airflow, AWS EMR & S3 |
 |[Udacity Airflow Challenge](https://github.com/Daniel57910/udac_airflow)|ETL to fetch data from s3 and load into a redshift DB  |1| Python, Pandas, AWS S3, Redshift|
 |[Udacity Cassandra Challenge](https://github.com/Daniel57910/cass_sparkify)|ETL to fetch data from local directories and load into a cassandra database  |1| Python, Pandas, Jupyter Notebooks, Cassandra|
 |[Cryptic Meg](https://github.com/Daniel57910/blockchain_project)|Makers Academy Final Project - Created a blockchain to store pharmaceutical prescriptiions. To learn more about blockchain technology we wrote the blockchain algorithm from scratch.  |4|Node, Express, jQuery, CryptoJS, MongoDB, Mongoose, EJS, CSS, Heroku |Jasmine, Istanbul, Cypress, Travis CI|
@@ -24,16 +24,16 @@ Communicated directly with Caesar's engineers to deploy software I developed in 
 #### Entrepreneurial 
 Began working as a freelancer whilst teaching English in Colombia. Obtained enough business to justify setting up a registered company and hired a full time employee to assist with project execution. 
 #### Delivery
-Experience with delivering software I've developed from dev to production, and endeavour to write well tested, documented code that can be deployed consistently using automation tools like jenkins.
+Experience with delivering software I've developed from dev to production, and endeavour to write well tested, documented code that can be deployed consistently using automation tools like Jenkins.
 
 
 ## EXPERIENCE
 **SG Digital** (Sep 2018 - Present)
 *Software/DevOps Engineer*
- - Developed software to allocate loyalty points to Caesar's customers in US sports betting markets
- - Upgraded deployment tooling so deployments can be completed from environment data centre to reduce latency and increase performance
- - On call software engineer in DevOps team & code reviewer
- - Production experience with Python, SQL, Ansible, Jenkins, AWS, Terraform, TCL & Docker
+ - Developed software to allocate loyalty points to Caesar's customers in US sports betting markets.
+ - Upgraded deployment tooling so deployments can be completed from environment data centre to reduce latency and increase performance.
+ - On call software engineer in DevOps team & code reviewer.
+ - Production experience with Python, SQL, Ansible, Jenkins, AWS, Terraform, TCL & Docker.
 
 **Daniel Miller Inc. Limited** (April 2016 - October 2017)
 *Contractor*
@@ -53,7 +53,7 @@ Experience with delivering software I've developed from dev to production, and e
 #### Data Engineering Nano Degree | Udacity (June - October 2019)
 * Developed ETL pipelines following SQL & noSQL design patterns
 * Technical Competencies
-    - pandas, spark, psql, apache-cassandra, apache-airflow, redshift, AWS EMR
+    - Python, Pandas, Spark, SQL, Cassandra, Airflow, Redshift, AWS EMR.
 
 #### Makers Academy (March - July 2018)
 * Approaches Covered
@@ -82,4 +82,4 @@ Experience with delivering software I've developed from dev to production, and e
  - Photography.
  - Boxing, rock climbing, cycling, running and keeping active.
  - Books, favorites include LOTR and the Hitchhikers Guide To The Galaxy.
- - Mental Health and Productivity 
+ - Mental Health and Productivity. 
