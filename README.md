@@ -50,7 +50,7 @@ Experience with delivering software I've developed from dev to production, and e
 
 ## EDUCATION
 
-#### Data Engineering Nano Degree | Udacity (June - October 2019)
+#### Data Engineering Nanodegree | Udacity (June - October 2019)
 * Developed ETL pipelines following SQL & noSQL design patterns.
 * Technical Competencies
     - Python, Pandas, Spark, SQL, Cassandra, Airflow, Redshift, AWS EMR.
